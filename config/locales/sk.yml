@@ -1,0 +1,25 @@
+sk:
+  en: Angličtina
+  ru: Ruský
+  sk: Slovenský
+  activerecord:
+    models:
+      question: Otázka
+    attributes:
+      question:
+        title: "Hlavička"
+        body: "Text"
+
+  pages:
+    index:
+      title: "Vitajte v Askit"
+
+  menu:
+    home: "Hlavná"
+    questions: "Otázka"  
+    sign_up: Registrovať
+    log_in: Vstúpiť
+    
+  questions:
+    destroy:
+      success: Otázka bola odstránená!
